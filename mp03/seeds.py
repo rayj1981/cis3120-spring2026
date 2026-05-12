@@ -72,3 +72,28 @@ TRAVEL_HOSPITALITY_PHRASES = [
     '"new terminal"',
     '"grand opening"',
 ]
+FINANCIAL_SERVICES_TICKERS = [
+    "JPM",
+    "BAC",
+    "WFC",
+    "GS",
+    "MS",
+    "C",
+    "BLK",
+    "AXP",
+    "V",
+    "MA",
+]
+
+FINANCIAL_SERVICES_PHRASES = [
+    '"new branch"',
+    '"bank opening"',
+    '"merger"',
+    '"acquisition"',
+    '"new headquarters"',
+    '"office expansion"',
+    '"new office"',
+    '"financial center"',
+    '"regional office"',
+    '"new location"',
+]
